@@ -1,6 +1,10 @@
 # GeekBuying-Clone
 Clone of E-commerce website Geek Buying using HTML, CSS &amp; JS
 
+# Netlify Deployed Link :
+https://calm-genie-cadf2a.netlify.app/
+
+
 
 # HomePage
 ![image](https://user-images.githubusercontent.com/110231091/208371658-aa176dea-9959-40fa-872b-8826ddb6dd09.png)

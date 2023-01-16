@@ -106,7 +106,7 @@ function detail(data) {
 
     }
 
-    console.log(obj)
+//     console.log(obj)
 
     localStorage.setItem("Item_Details", JSON.stringify(obj))
 

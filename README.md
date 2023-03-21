@@ -1,6 +1,8 @@
 # GeekBuying-Clone
 Clone of E-commerce website Geek Buying using HTML, CSS &amp; JS
 
+Geekbuying is an e-commerce website that offers a wide range of products, including electronics, gadgets, home appliances, and fashion items. The website allows users to browse and purchase products from various categories, such as smartphones, laptops, smart home devices, and drones. Overall, Geekbuying is a popular website for tech enthusiasts looking to buy gadgets and electronics online.
+
 # Netlify Deployed Link :
 https://calm-genie-cadf2a.netlify.app/
 
